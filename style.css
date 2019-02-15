@@ -1,0 +1,20 @@
+body{
+    background-image: url("bg.png");
+}
+
+#h1{
+    text-align: center;
+    color:goldenrod;
+    font-family:fantasy;
+    
+}
+
+#tb{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    color: rgb(167, 32, 32);
+    font-family:fantasy;
+}
